@@ -53,7 +53,7 @@
 <br><br>
 🌍 Connect With Me
 <div align="center">
-  <a href="[https://www.linkedin.com/in/k-somasekhar-naidu-59728b376/](https://www.linkedin.com/in/k-somasekhar-9baa90356/)" target="_blank">
+  <a href="https://www.linkedin.com/in/k-somasekhar-9baa90356/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="65" height="30" alt="linkedin logo"  />
   </a>
   <a href="https://x.com/Somasekhar___" target="_blank">
